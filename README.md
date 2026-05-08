@@ -1,5 +1,7 @@
 # Diondria-Morris-Neuroscience_as_Model
+
 Neuroscience as a Model for AI — ITAI 4374
+
 The brain processes 11 million bits of sensory information every second and consciously handles about 50 of them. It navigates uncertainty, rewires itself through experience, predicts the future, and somehow produces subjective awareness. All on roughly 20 watts. This repository documents a semester-long investigation into what that means for artificial intelligence. Not as a surface level comparison, but as a technical audit: what has the brain solved that AI hasn’t, where are the gaps, and what happens when you actually test those questions on real systems.
 This course moved through the full stack of biological intelligence;from the electrochemical behavior of individual spiking neurons to the large-scale architectures that produce memory, attention, decision-making, and goal-directed behavior. Each module built on the last. Understanding how a single neuron integrates and fires (Module 4) makes the logic of deep learning feel less like magic and more like an engineering approximation. Understanding how the hippocampus consolidates memory during sleep (Module 6) makes the context window limitations of large language models feel less like a technical detail and more like a fundamental design void.
 
